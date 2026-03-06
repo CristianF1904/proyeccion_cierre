@@ -1,56 +1,59 @@
 ﻿ID_TIENDA,TIENDA,PENDIENTES_SF,PENDIENTES_SHIPPING,BO_ENTREGADOS,TOTAL_SHIPPING,ENTREGA_H,ESTIMACION_HORAS,FIN
 N597,Sisa Temuco El Carmen,5,8,5,14,0.5,16.0,🔴 Riesgo de reprogramacion
-N665,Sisa Los Andes,6,7,4,13,0.5,14.0,🔴 Riesgo de reprogramacion
-N977,Sisa Las Mariposas,5,7,4,13,0.5,14.0,🔴 Riesgo de reprogramacion
-N756,Sisa Sanantonio,3,6,3,11,0.5,12.0,🔴 Riesgo de reprogramacion
-N744,Sisa La Union,1,2,2,4,0.0,,⚠️ Sin entregas ultima hora
-N985,Sisa Victoria,1,1,1,3,0.0,,⚠️ Sin entregas ultima hora
-N684,Sisa Valdivia Chacabuco,6,5,4,11,0.0,,⚠️ Sin entregas ultima hora
-N909,Sisa Los Boldos,9,5,4,13,0.0,,⚠️ Sin entregas ultima hora
-N820,Sisa Calama,8,7,5,14,0.0,,⚠️ Sin entregas ultima hora
-N822,Sisa Los Pinos,12,19,16,39,2.0,9.5,21:19:49
-N812,Sisa Renato Rocca,2,7,4,11,1.0,7.0,18:49:49
-N689,Sisa San Pablo,20,35,27,69,5.5,6.4,18:11:39
-N753,Sisa Laligua,2,3,3,7,0.5,6.0,17:49:49
-N797,Sisa Antofagasta 14 Febrero,6,9,6,18,1.5,6.0,17:49:49
-N811,Sisa Alto Hospicio,3,3,2,5,0.5,6.0,17:49:49
-N859,Sisa Melipilla,7,8,9,25,1.5,5.3,17:09:49
-N612,Sisa Grajales,7,8,4,14,1.5,5.3,17:09:49
-N552,Sisa Pedro Montt,7,8,12,24,1.5,5.3,17:09:49
-N828,Sisa Talca Colin,3,5,6,11,1.0,5.0,16:49:49
-N549,Sisa La Calera Zenteno,2,5,4,9,1.0,5.0,16:49:49
-N857,Sisa Villarica,2,2,1,3,0.5,4.0,15:49:49
-N813,Sisa Valencia,3,6,10,20,1.5,4.0,15:49:49
-N590,Sisa Iquique,3,4,5,12,1.0,4.0,15:49:49
-N593,Sisa Bustamante,16,24,27,60,6.0,4.0,15:49:49
-N643,Sisa Ochagavia,15,24,36,72,6.5,3.7,15:31:22
-N771,Sisa Huerfanos,8,13,14,31,3.5,3.7,15:32:41
-N587,Sisa Valle Volcanes,2,5,12,19,1.5,3.3,15:09:49
-N711,Sisa Agua Santa,12,19,31,60,6.0,3.2,14:59:49
-N848,Sisa Las Araucarias,1,3,6,13,1.0,3.0,14:49:49
-N648,Sisa San Joaquin,3,6,15,25,2.0,3.0,14:49:49
-N548,Sisa Renaca,8,12,13,33,4.0,3.0,14:49:49
-N908,Sisa Ovalle,4,3,4,11,1.0,3.0,14:49:49
-N983,Sisa Coronel,7,6,9,17,2.0,3.0,14:49:49
-N742,Sisa Los Angeles Villagran,1,3,4,7,1.0,3.0,14:49:49
-N915,Sisa Rancagua Bosques,6,6,10,20,2.5,2.4,14:13:49
-N801,Sisa Collao,7,6,13,21,2.5,2.4,14:13:49
-N561,Sisa Curauma,4,7,16,26,3.0,2.3,14:09:49
-N841,Sisa Palomar,1,3,3,7,1.5,2.0,13:49:49
-N849,Sisa Casablanca,1,1,3,5,0.5,2.0,13:49:49
-N818,Sisa Curacavi,4,2,5,9,1.0,2.0,13:49:49
-N672,Sisa Concha Y Toro,11,16,42,69,8.0,2.0,13:49:49
-N651,Sisa Valle Grande,7,9,20,35,4.5,2.0,13:49:49
-N657,Sisa Limache Viejo,2,3,6,11,1.5,2.0,13:49:49
-N736,Sisa Grecia,8,18,41,60,11.0,1.6,13:28:00
-N778,Sisa San Pedro De La Paz,4,4,8,18,3.0,1.3,13:09:49
-N639,Sisa Flemming,8,8,0,0,6.5,1.2,13:03:40
-N758,"Sisa Tres Poniente, Maipu",12,11,45,67,9.5,1.2,12:59:18
-N692,Sisa Pedro Fontova,4,7,20,30,6.5,1.1,12:54:26
-N585,Sisa Osorno Da Vinci,3,2,8,12,2.0,1.0,12:49:49
-N764,"Sisa La Florida, Enrique Olivares",4,9,36,54,9.0,1.0,12:49:49
-N524,Sisa Januario,2,1,5,6,1.0,1.0,12:49:49
-N733,Sisa Pto Varas Del Salvador,1,1,7,10,1.5,0.7,12:29:49
-N658,Sisa La Herradura,2,3,16,22,5.0,0.6,12:25:49
-N783,Sisa Lomas De San Andres,3,3,18,24,5.0,0.6,12:25:49
-N758,"Sisa Tres Poniente, Maipu",12,1,1,2,9.5,0.1,11:56:08
+N665,Sisa Los Andes,10,7,5,13,0.5,14.0,🔴 Riesgo de reprogramacion
+N756,Sisa Sanantonio,6,6,4,11,0.5,12.0,🔴 Riesgo de reprogramacion
+N820,Sisa Calama,11,7,6,14,0.0,,⚠️ Sin entregas ultima hora
+N758,Spid35 Sisa Maipu Tres Poniente,1,13,50,69,0.0,,⚠️ Sin entregas ultima hora
+N758,Spid35 Sisa Maipu Tres Poniente,1,2,1,3,0.0,,⚠️ Sin entregas ultima hora
+N744,Sisa La Union,4,3,2,5,0.0,,⚠️ Sin entregas ultima hora
+N985,Sisa Victoria,2,2,2,4,0.0,,⚠️ Sin entregas ultima hora
+N909,Sisa Los Boldos,6,5,5,13,0.0,,⚠️ Sin entregas ultima hora
+N684,Sisa Valdivia Chacabuco,6,5,4,11,0.5,10.0,22:05:26
+N822,Sisa Los Pinos,16,18,17,40,2.0,9.0,21:05:26
+N797,Sisa Antofagasta 14 Febrero,10,11,7,20,1.5,7.3,19:25:26
+N689,Sisa San Pablo,28,36,29,71,5.5,6.5,18:38:10
+N552,Sisa Pedro Montt,12,8,13,25,1.5,5.3,17:25:26
+N859,Sisa Melipilla,8,8,9,25,1.5,5.3,17:25:26
+N549,Sisa La Calera Zenteno,3,5,4,9,1.0,5.0,17:05:26
+N977,Sisa Las Mariposas,10,7,4,13,1.5,4.7,16:45:26
+N857,Sisa Villarica,2,2,1,3,0.5,4.0,16:05:26
+N612,Sisa Grajales,7,6,6,15,1.5,4.0,16:05:26
+N590,Sisa Iquique,6,4,5,12,1.0,4.0,16:05:26
+N771,Sisa Huerfanos,11,14,16,34,3.5,4.0,16:05:26
+N908,Sisa Ovalle,7,4,6,12,1.0,4.0,16:05:26
+N753,Sisa Laligua,3,2,3,7,0.5,4.0,16:05:26
+N983,Sisa Coronel,6,7,9,18,2.0,3.5,15:35:26
+N587,Sisa Valle Volcanes,8,5,12,19,1.5,3.3,15:25:26
+N593,Sisa Bustamante,24,25,29,63,7.5,3.3,15:25:26
+N548,Sisa Renaca,18,13,16,34,4.0,3.2,15:20:26
+N848,Sisa Las Araucarias,5,3,7,13,1.0,3.0,15:05:26
+N643,Sisa Ochagavia,28,19,39,72,6.5,2.9,15:00:49
+N915,Sisa Rancagua Bosques,8,7,12,21,2.5,2.8,14:53:26
+N828,Sisa Talca Colin,4,4,6,11,1.5,2.7,14:45:26
+N841,Sisa Palomar,3,4,3,8,1.5,2.7,14:45:26
+N813,Sisa Valencia,3,5,12,21,2.0,2.5,14:35:26
+N672,Sisa Concha Y Toro,17,19,47,72,8.0,2.4,14:27:56
+N711,Sisa Agua Santa,18,14,33,61,6.0,2.3,14:25:26
+N811,Sisa Alto Hospicio,3,1,3,5,0.5,2.0,14:05:26
+N561,Sisa Curauma,8,6,17,28,3.0,2.0,14:05:26
+N801,Sisa Collao,6,6,13,21,3.0,2.0,14:05:26
+N651,Sisa Valle Grande,11,11,20,37,5.5,2.0,14:05:26
+N657,Sisa Limache Viejo,5,4,8,12,2.0,2.0,14:05:26
+N849,Sisa Casablanca,3,1,4,5,0.5,2.0,14:05:26
+N818,Sisa Curacavi,4,2,7,9,1.0,2.0,14:05:26
+N812,Sisa Renato Rocca,3,4,6,11,2.0,2.0,14:05:26
+N736,Sisa Grecia,16,18,42,62,11.0,1.6,13:43:37
+N639,Sisa Flemming,10,10,0,0,7.0,1.4,13:31:09
+N692,Sisa Pedro Fontova,9,9,23,32,6.5,1.4,13:28:31
+N733,Sisa Pto Varas Del Salvador,2,2,8,11,1.5,1.3,13:25:26
+N778,Sisa San Pedro De La Paz,4,5,9,19,4.0,1.2,13:20:26
+N758,"Sisa Tres Poniente, Maipu",17,13,50,69,11.0,1.2,13:16:21
+N658,Sisa La Herradura,5,5,17,24,5.0,1.0,13:05:26
+N648,Sisa San Joaquin,5,3,16,25,3.0,1.0,13:05:26
+N901,Sisa Vallenar,2,2,8,10,2.5,0.8,12:53:26
+N585,Sisa Osorno Da Vinci,5,2,9,12,2.5,0.8,12:53:26
+N764,"Sisa La Florida, Enrique Olivares",9,7,39,55,9.0,0.8,12:52:06
+N742,Sisa Los Angeles Villagran,3,1,4,7,1.5,0.7,12:45:26
+N524,Sisa Januario,2,1,5,6,1.5,0.7,12:45:26
+N783,Sisa Lomas De San Andres,4,2,19,24,5.5,0.4,12:27:15
+N758,"Sisa Tres Poniente, Maipu",17,2,1,3,11.0,0.2,12:16:21
