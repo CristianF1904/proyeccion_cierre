@@ -1,55 +1,54 @@
 ﻿ID_TIENDA,TIENDA,PENDIENTES_SF,PENDIENTES_SHIPPING,BO_ENTREGADOS,TOTAL_SHIPPING,ENTREGA_H,ESTIMACION_HORAS,FIN
-N985,Sisa Victoria,2,1,2,4,0.0,,⚠️ Sin entregas ultima hora
-N590,Sisa Iquique,6,0,6,13,2.0,0.0,✅ Cierre inminente
-N758,"Sisa Tres Poniente, Maipu",8,0,3,3,17.0,0.0,✅ Cierre inminente
-N744,Sisa La Union,2,3,2,5,0.5,6.0,18:53:16
-N820,Sisa Calama,6,5,7,15,1.0,5.0,17:53:16
-N684,Sisa Valdivia Chacabuco,4,5,4,12,1.0,5.0,17:53:16
-N857,Sisa Villarica,2,2,1,3,0.5,4.0,16:53:16
-N977,Sisa Las Mariposas,8,6,6,13,1.5,4.0,16:53:16
-N797,Sisa Antofagasta 14 Febrero,10,10,10,24,3.0,3.3,16:13:16
-N841,Sisa Palomar,2,5,4,12,1.5,3.3,16:13:16
-N597,Sisa Temuco El Carmen,5,8,5,17,2.5,3.2,16:05:16
-N612,Sisa Grajales,5,6,8,19,2.0,3.0,15:53:16
-N657,Sisa Limache Viejo,3,6,8,14,2.0,3.0,15:53:16
-N909,Sisa Los Boldos,6,4,9,13,1.5,2.7,15:33:16
-N915,Sisa Rancagua Bosques,6,8,13,24,3.0,2.7,15:33:16
-N689,Sisa San Pablo,25,30,35,75,11.0,2.7,15:36:54
-N665,Sisa Los Andes,7,4,5,13,1.5,2.7,15:33:16
-N742,Sisa Los Angeles Villagran,2,4,6,10,1.5,2.7,15:33:16
-N812,Sisa Renato Rocca,3,5,7,12,2.0,2.5,15:23:16
-N822,Sisa Los Pinos,15,13,23,43,5.5,2.4,15:15:05
-N859,Sisa Melipilla,7,8,14,27,3.5,2.3,15:10:24
-N753,Sisa Laligua,3,2,5,7,1.0,2.0,14:53:16
-N756,Sisa Sanantonio,6,2,5,12,1.0,2.0,14:53:16
-N908,Sisa Ovalle,4,4,8,12,2.0,2.0,14:53:16
-N983,Sisa Coronel,6,7,10,20,4.0,1.8,14:38:16
-N593,Sisa Bustamante,17,21,40,68,12.5,1.7,14:34:04
-N548,Sisa Renaca,14,10,22,38,6.0,1.7,14:33:16
-N651,Sisa Valle Grande,9,12,26,42,7.5,1.6,14:29:16
-N771,Sisa Huerfanos,9,9,21,37,6.0,1.5,14:23:16
-N549,Sisa La Calera Zenteno,2,3,6,9,2.0,1.5,14:23:16
-N778,Sisa San Pedro De La Paz,2,6,15,21,4.0,1.5,14:23:16
-N643,Sisa Ochagavia,22,20,52,80,13.5,1.5,14:22:09
-N848,Sisa Las Araucarias,5,3,10,13,2.0,1.5,14:23:16
-N552,Sisa Pedro Montt,9,6,16,26,4.0,1.5,14:23:16
-N828,Sisa Talca Colin,4,4,7,12,3.0,1.3,14:13:16
-N813,Sisa Valencia,1,5,20,28,4.0,1.2,14:08:16
-N711,Sisa Agua Santa,14,15,48,70,12.0,1.2,14:08:16
-N801,Sisa Collao,6,7,14,24,6.5,1.1,13:57:53
-N561,Sisa Curauma,7,7,23,34,6.5,1.1,13:57:53
-N672,Sisa Concha Y Toro,14,18,53,80,17.0,1.1,13:56:48
-N758,"Sisa Tres Poniente, Maipu",8,18,53,82,17.0,1.1,13:56:48
-N811,Sisa Alto Hospicio,3,1,4,5,1.0,1.0,13:53:16
-N692,Sisa Pedro Fontova,7,8,24,36,8.0,1.0,13:53:16
-N736,Sisa Grecia,12,15,47,69,16.5,0.9,13:47:49
-N648,Sisa San Joaquin,3,5,19,27,5.5,0.9,13:47:49
-N818,Sisa Curacavi,4,2,7,12,2.5,0.8,13:41:16
-N658,Sisa La Herradura,3,5,20,27,6.5,0.8,13:39:25
-N585,Sisa Osorno Da Vinci,3,3,10,13,4.0,0.8,13:38:16
-N587,Sisa Valle Volcanes,5,3,16,20,4.0,0.8,13:38:16
-N733,Sisa Pto Varas Del Salvador,1,2,9,11,3.0,0.7,13:33:16
-N849,Sisa Casablanca,2,1,4,5,1.5,0.7,13:33:16
-N764,"Sisa La Florida, Enrique Olivares",3,8,49,62,14.5,0.6,13:26:22
-N639,Sisa Flemming,5,5,0,0,8.0,0.6,13:30:46
-N783,Sisa Lomas De San Andres,3,2,22,24,7.0,0.3,13:10:24
+N753,Sisa Laligua,2,0,5,7,1.0,0.0,✅ Cierre inminente
+N758,"Sisa Tres Poniente, Maipu",8,0,3,3,17.5,0.0,✅ Cierre inminente
+N590,Sisa Iquique,3,0,8,13,2.0,0.0,✅ Cierre inminente
+N612,Sisa Grajales,5,9,9,22,2.0,4.5,17:39:02
+N857,Sisa Villarica,2,2,1,3,0.5,4.0,17:09:02
+N665,Sisa Los Andes,7,5,5,14,1.5,3.3,16:29:02
+N820,Sisa Calama,6,5,8,15,1.5,3.3,16:29:02
+N797,Sisa Antofagasta 14 Febrero,7,10,12,26,3.0,3.3,16:29:02
+N597,Sisa Temuco El Carmen,5,8,7,18,2.5,3.2,16:21:02
+N684,Sisa Valdivia Chacabuco,4,4,5,12,1.5,2.7,15:49:02
+N841,Sisa Palomar,2,4,4,14,1.5,2.7,15:49:02
+N689,Sisa San Pablo,22,29,41,79,11.0,2.6,15:47:13
+N859,Sisa Melipilla,7,9,16,28,3.5,2.6,15:43:20
+N812,Sisa Renato Rocca,4,5,7,12,2.0,2.5,15:39:02
+N822,Sisa Los Pinos,13,14,24,44,5.5,2.5,15:41:46
+N915,Sisa Rancagua Bosques,5,8,13,24,3.5,2.3,15:26:11
+N657,Sisa Limache Viejo,1,5,8,15,2.5,2.0,15:09:02
+N742,Sisa Los Angeles Villagran,2,3,6,11,1.5,2.0,15:09:02
+N908,Sisa Ovalle,3,4,8,12,2.0,2.0,15:09:02
+N909,Sisa Los Boldos,4,4,9,13,2.0,2.0,15:09:02
+N848,Sisa Las Araucarias,1,4,10,14,2.0,2.0,15:09:02
+N811,Sisa Alto Hospicio,3,2,4,6,1.0,2.0,15:09:02
+N977,Sisa Las Mariposas,7,4,7,13,2.0,2.0,15:09:02
+N778,Sisa San Pedro De La Paz,2,7,15,22,4.0,1.8,14:54:02
+N828,Sisa Talca Colin,4,5,7,13,3.0,1.7,14:49:02
+N643,Sisa Ochagavia,16,22,57,85,13.5,1.6,14:46:49
+N771,Sisa Huerfanos,8,9,22,38,6.0,1.5,14:39:02
+N549,Sisa La Calera Zenteno,2,3,6,9,2.0,1.5,14:39:02
+N756,Sisa Sanantonio,6,2,5,12,1.5,1.3,14:29:02
+N651,Sisa Valle Grande,4,10,28,42,7.5,1.3,14:29:02
+N813,Sisa Valencia,1,5,21,29,4.0,1.2,14:24:02
+N593,Sisa Bustamante,14,17,42,68,14.0,1.2,14:21:54
+N548,Sisa Renaca,11,7,24,38,6.0,1.2,14:19:02
+N711,Sisa Agua Santa,13,14,52,71,12.0,1.2,14:19:02
+N552,Sisa Pedro Montt,6,5,18,27,4.0,1.2,14:24:02
+N983,Sisa Coronel,5,5,11,20,4.0,1.2,14:24:02
+N818,Sisa Curacavi,2,3,8,13,2.5,1.2,14:21:02
+N561,Sisa Curauma,6,8,24,37,6.5,1.2,14:22:53
+N736,Sisa Grecia,11,18,53,75,16.5,1.1,14:14:30
+N801,Sisa Collao,6,7,14,24,6.5,1.1,14:13:39
+N672,Sisa Concha Y Toro,10,17,55,83,17.0,1.0,14:09:02
+N758,"Sisa Tres Poniente, Maipu",8,17,56,85,17.5,1.0,14:07:20
+N744,Sisa La Union,2,1,2,5,1.0,1.0,14:09:02
+N692,Sisa Pedro Fontova,6,7,24,38,8.0,0.9,14:01:32
+N585,Sisa Osorno Da Vinci,2,3,10,13,4.0,0.8,13:54:02
+N587,Sisa Valle Volcanes,3,4,17,21,5.0,0.8,13:57:02
+N733,Sisa Pto Varas Del Salvador,1,2,9,11,3.0,0.7,13:49:02
+N849,Sisa Casablanca,1,1,4,5,1.5,0.7,13:49:02
+N783,Sisa Lomas De San Andres,2,4,22,26,7.0,0.6,13:43:20
+N639,Sisa Flemming,5,5,0,0,8.0,0.6,13:46:32
+N764,"Sisa La Florida, Enrique Olivares",3,7,50,63,14.5,0.5,13:38:00
+N648,Sisa San Joaquin,3,3,19,27,5.5,0.5,13:41:46
+N658,Sisa La Herradura,1,3,20,27,7.5,0.4,13:33:02
