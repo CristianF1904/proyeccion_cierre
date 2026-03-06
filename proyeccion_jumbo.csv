@@ -1,31 +1,31 @@
 ﻿ID_TIENDA,TIENDA,PENDIENTES_SF,PENDIENTES_SHIPPING,BO_ENTREGADOS,TOTAL_SHIPPING,ENTREGA_H,ESTIMACION_HORAS,FIN
-J748,Jumbo Osorno,42,43,26,73,0.5,86.0,🔴 Riesgo de reprogramacion
-J955,Jumbo Valdivia,46,33,30,79,0.5,66.0,🔴 Riesgo de reprogramacion
-J504,Jumbo Rancagua,137,69,121,245,1.5,46.0,🔴 Riesgo de reprogramacion
-J507,Jumbo Puerto Montt,89,59,59,161,2.0,29.5,🔴 Riesgo de reprogramacion
-J506,Jumbo Temuco,70,53,50,116,2.5,21.2,🔴 Riesgo de reprogramacion
-J660,Jumbo Iquique,44,60,48,116,4.0,15.0,🔴 Riesgo de reprogramacion
-J591,Jumbo Talca El Arenal,27,29,39,69,2.0,14.5,🔴 Riesgo de reprogramacion
-J780,Jumbo Los Andes,16,18,26,52,1.5,12.0,🔴 Riesgo de reprogramacion
-J989,Jumbo Independencia,254,187,150,425,0.0,,⚠️ Sin entregas ultima hora
-J659,Jumbo Concha Y Toro,102,79,149,264,0.0,,⚠️ Sin entregas ultima hora
-J410,Jumbo La Florida,364,176,377,689,0.0,,⚠️ Sin entregas ultima hora
-J410,Jumbo La Florida,364,0,2,2,0.0,,⚠️ Sin entregas ultima hora
-J414,Darkstore La Dehesa,664,510,579,1276,0.0,,⚠️ Sin entregas ultima hora
-J512,Jumbo La Reina,590,537,381,1038,0.0,,⚠️ Sin entregas ultima hora
-J633,Jumbo Concepcion,136,99,105,243,0.0,,⚠️ Sin entregas ultima hora
-J519,Jumbo Penalolen,131,106,262,437,0.0,,⚠️ Sin entregas ultima hora
-J403,Darkstore Maipu,353,230,283,648,0.0,,⚠️ Sin entregas ultima hora
-J534,Jumbo Antofagasta,162,94,128,295,0.0,,⚠️ Sin entregas ultima hora
-J614,Jumbo Calama,26,18,25,48,0.0,,⚠️ Sin entregas ultima hora
-J695,Jumbo Los Angeles,48,35,33,83,0.0,,⚠️ Sin entregas ultima hora
-J411,Darkstore Costanera,1289,1279,800,2284,0.0,,⚠️ Sin entregas ultima hora
-J513,Jumbo El Llano,141,105,186,351,0.0,,⚠️ Sin entregas ultima hora
-J408,Jumbo Vina Del Mar,451,343,339,842,0.0,,⚠️ Sin entregas ultima hora
-J843,Jumbo San Bernardo,91,67,139,260,0.0,,⚠️ Sin entregas ultima hora
-J592,Jumbo Curico,34,28,41,91,0.0,,⚠️ Sin entregas ultima hora
-J775,Jumbo Nunoa,166,129,215,401,0.0,,⚠️ Sin entregas ultima hora
-J760,Jumbo Copiapo,35,34,77,141,5.0,6.8,17:58:53
-J532,Jumbo Chillan,18,10,33,47,2.0,5.0,16:10:53
-J521,Jumbo La Serena,66,61,116,191,16.5,3.7,14:52:42
-J619,Jumbo Arica,21,18,35,62,6.0,3.0,14:10:53
+J507,Jumbo Puerto Montt,52,56,71,166,3.0,18.7,🔴 Riesgo de reprogramacion
+J955,Jumbo Valdivia,26,31,41,87,2.0,15.5,🔴 Riesgo de reprogramacion
+J695,Jumbo Los Angeles,22,30,40,88,2.0,15.0,🔴 Riesgo de reprogramacion
+J591,Jumbo Talca El Arenal,10,32,43,77,2.5,12.8,🔴 Riesgo de reprogramacion
+J408,Jumbo Vina Del Mar,272,286,403,884,0.0,,⚠️ Sin entregas ultima hora
+J513,Jumbo El Llano,65,114,216,385,0.0,,⚠️ Sin entregas ultima hora
+J512,Jumbo La Reina,358,497,455,1090,0.0,,⚠️ Sin entregas ultima hora
+J843,Jumbo San Bernardo,24,59,159,272,0.0,,⚠️ Sin entregas ultima hora
+J411,Darkstore Costanera,831,1259,943,2423,0.0,,⚠️ Sin entregas ultima hora
+J614,Jumbo Calama,8,16,31,50,0.0,,⚠️ Sin entregas ultima hora
+J403,Darkstore Maipu,171,208,348,687,0.0,,⚠️ Sin entregas ultima hora
+J659,Jumbo Concha Y Toro,37,63,169,273,0.0,,⚠️ Sin entregas ultima hora
+J534,Jumbo Antofagasta,79,88,156,313,0.0,,⚠️ Sin entregas ultima hora
+J633,Jumbo Concepcion,67,91,124,253,0.0,,⚠️ Sin entregas ultima hora
+J519,Jumbo Penalolen,56,87,303,464,0.0,,⚠️ Sin entregas ultima hora
+J410,Jumbo La Florida,148,178,452,722,0.0,,⚠️ Sin entregas ultima hora
+J410,Jumbo La Florida,148,0,2,2,0.0,,⚠️ Sin entregas ultima hora
+J414,Darkstore La Dehesa,355,483,690,1353,0.0,,⚠️ Sin entregas ultima hora
+J989,Jumbo Independencia,148,180,184,450,0.0,,⚠️ Sin entregas ultima hora
+J775,Jumbo Nunoa,69,137,253,455,0.0,,⚠️ Sin entregas ultima hora
+J506,Jumbo Temuco,38,50,63,127,5.0,10.0,21:34:04
+J660,Jumbo Iquique,20,58,55,128,7.0,8.3,19:51:13
+J748,Jumbo Osorno,24,29,31,73,4.0,7.2,18:49:04
+J504,Jumbo Rancagua,55,72,144,261,11.0,6.5,18:06:48
+J780,Jumbo Los Andes,7,15,29,53,3.0,5.0,16:34:04
+J592,Jumbo Curico,8,26,49,97,6.5,4.0,15:34:04
+J619,Jumbo Arica,11,22,41,70,6.5,3.4,14:57:09
+J760,Jumbo Copiapo,16,32,88,150,12.5,2.6,14:07:40
+J521,Jumbo La Serena,24,56,123,202,23.0,2.4,14:00:09
+J532,Jumbo Chillan,4,10,35,49,8.0,1.2,12:49:04
